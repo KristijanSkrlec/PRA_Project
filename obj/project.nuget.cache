@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCd7Hk8hUgSEjPvxAbPdT9hGVOdT0MpRv/+sJ+WG4KoM225ePXCxSWjs+q6nYKuJh3BW87EbyezgT8a1VcwsAw==",
+  "success": true,
+  "projectFilePath": "D:\\VisokoUcilisteAlgebra\\IV_Semestar\\ProjektniRazvojAplikacija\\PRA_Project\\PRA_Project\\PRA_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristijan\\.nuget\\packages\\microsoft.identity.client\\4.51.0\\microsoft.identity.client.4.51.0.nupkg.sha512",
+    "C:\\Users\\Kristijan\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}

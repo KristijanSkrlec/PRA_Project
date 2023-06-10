@@ -1,0 +1,58 @@
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminLecturerAdd.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminLecturerView.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminMenu.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminNewsClassSelect.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.LecturerMenu.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.Login.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.Properties.Resources.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AssemblyInfo.cs
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.exe
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.deps.json
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.runtimeconfig.json
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.dll
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.pdb
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.CopyComplete
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.dll
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\refint\PRA_Project.dll
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.pdb
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.genruntimeconfig.cache
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\ref\PRA_Project.dll
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminSubjectAdd.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminSubjectView.resources
+C:\Users\anton\Desktop\Algebra\Algebra\2. Godina\PRA_Project_Assignment\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.TableItem.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.exe
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.deps.json
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.runtimeconfig.json
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.dll
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\PRA_Project.pdb
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.AssemblyReference.cache
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminLecturerAdd.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminLecturerView.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminMenu.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminNewsClassSelect.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminSubjectAdd.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AdminSubjectView.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.LecturerMenu.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.Login.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.Properties.Resources.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.TableItem.resources
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.GenerateResource.cache
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AssemblyInfoInputs.cache
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.AssemblyInfo.cs
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.CoreCompileInputs.cache
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.csproj.CopyComplete
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.dll
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\refint\PRA_Project.dll
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.pdb
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\PRA_Project.genruntimeconfig.cache
+D:\VisokoUcilisteAlgebra\IV_Semestar\ProjektniRazvojAplikacija\PRA_Project\PRA_Project\obj\Debug\net6.0-windows\ref\PRA_Project.dll
